@@ -1,0 +1,12 @@
+{
+  "secret": {
+    "label": "Secret",
+    "emoji": "🗝️",
+    "color": "0x00ffcc"
+  },
+  "inutile": {
+    "label": "Inutile",
+    "emoji": "🗑️",
+    "color": "0x808080"
+  }
+}

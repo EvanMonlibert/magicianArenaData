@@ -1,0 +1,87 @@
+{
+  "boxes": [
+    {
+      "id": "box_lostmedias",
+      "name": "Box Lostmedias",
+      "description": "Une caisse ",
+      "icon": "🎤",
+      "rarity": "inutile",
+      "price": 500,
+      "itemCount": {
+        "min": 1,
+        "max": 3
+      },
+      "in_shop": true,
+      "shopTime": 60,
+      "itemDrops": {
+        "item_002": 20,
+        "item_003": 18,
+        "item_004": 16,
+        "item_005": 14,
+        "item_006": 12,
+        "item_007": 10,
+        "item_008": 8,
+        "item_009": 6,
+        "item_010": 4,
+        "item_011": 3,
+        "item_012": 2,
+        "item_013": 1,
+        "item_014": 0.5,
+        "item_015": 0.25,
+        "item_016": 0.1,
+        "item_017": 0.05,
+        "item_018": 0.025,
+        "item_019": 0.01,
+        "item_020": 0.005,
+        "item_021": 0.0025,
+        "item_022": 0.001,
+        "item_023": 0.0005,
+        "item_024": 0.00025,
+        "item_025": 0.0001,
+        "item_026": 5e-05
+      },
+      "shop_ping": false
+    },
+    {
+      "id": "box_memes",
+      "name": "Box Memes",
+      "description": "Une caisse remplie de memes classiques et intemporels. Parfaite pour les amateurs d'humour.",
+      "icon": "😂",
+      "rarity": "inutile",
+      "price": 1250,
+      "itemCount": {
+        "min": 1,
+        "max": 3
+      },
+      "in_shop": true,
+      "shop_time": 120,
+      "itemDrops": {
+        "item_027": 15,
+        "item_028": 14,
+        "item_029": 13,
+        "item_030": 12,
+        "item_031": 11,
+        "item_032": 10,
+        "item_033": 9,
+        "item_034": 8,
+        "item_035": 7,
+        "item_036": 6,
+        "item_037": 5,
+        "item_038": 4,
+        "item_039": 3,
+        "item_040": 2,
+        "item_041": 1,
+        "item_042": 0.5,
+        "item_043": 0.25,
+        "item_044": 0.1,
+        "item_045": 0.05,
+        "item_046": 0.025,
+        "item_047": 0.01,
+        "item_048": 0.005,
+        "item_049": 0.0025,
+        "item_050": 0.001
+      },
+      "shop_ping": true
+    }
+  ]
+}

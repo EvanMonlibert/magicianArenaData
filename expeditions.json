@@ -1,0 +1,18 @@
+{
+  "exp_001": {
+    "name": "Chercher des lost medias",
+    "description": "Tu as entendu parler de médias perdus qui pourraient contenir des secrets magiques. Part à leur recherche pour les récupérer.",
+    "duration_seconds": 60,
+    "level_required": 1,
+    "power_required": 0,
+    "rewards": {
+      "xp": 25,
+      "gold_min": 100,
+      "gold_max": 200,
+      "league_points": 10,
+      "box_chances": {
+        "box_lostmedias": 100
+      }
+    }
+  }
+}
