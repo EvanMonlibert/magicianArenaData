@@ -54,7 +54,7 @@
         "max": 3
       },
       "in_shop": true,
-      "shop_time": 120,
+      "shop_time": 90,
       "itemDrops": {
         "item_027": 15,
         "item_028": 14,
@@ -81,7 +81,7 @@
         "item_049": 0.0025,
         "item_050": 0.001
       },
-      "shop_ping": true
+      "shop_ping": false
     }
   ]
 }
