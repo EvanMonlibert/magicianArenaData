@@ -14,5 +14,23 @@
         "box_lostmedias": 100
       }
     }
+  },
+
+
+  "exp_002": {
+    "name": "Rechercher des anciens memes",
+    "description": "Une collection d'anciens memes a été découverte dans les environs. Explore-la pour découvrir ses secrets et récupérer des trésors.",
+    "duration_seconds": 120,
+    "level_required": 5,
+    "power_required": 100,
+    "rewards": {
+      "xp": 50,
+      "gold_min": 400,
+      "gold_max": 800,
+      "league_points": 25,
+      "box_chances": {
+        "box_memes": 100
+      }
+    }
   }
 }
