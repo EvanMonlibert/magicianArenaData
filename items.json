@@ -335,7 +335,7 @@
 
 
 
-  
+
   "item_027": {
     "name": "Trollface",
     "description": "Le visage emblématique du troll d'Internet des années 2010. Le roi absolu de l'agacement en ligne.",
@@ -345,7 +345,8 @@
     "power": 50,
     "shop_price": 150,
     "sell_price": 112,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_028": {
     "name": "Doge",
@@ -356,7 +357,8 @@
     "power": 50,
     "shop_price": 150,
     "sell_price": 112,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_029": {
     "name": "Nyan Cat",
@@ -367,7 +369,8 @@
     "power": 50,
     "shop_price": 152,
     "sell_price": 114,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_030": {
     "name": "Grumpy Cat",
@@ -378,7 +381,8 @@
     "power": 51,
     "shop_price": 156,
     "sell_price": 117,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_031": {
     "name": "Pepe the Frog",
@@ -389,7 +393,8 @@
     "power": 52,
     "shop_price": 162,
     "sell_price": 121,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_032": {
     "name": "Bad Luck Brian",
@@ -400,7 +405,8 @@
     "power": 54,
     "shop_price": 170,
     "sell_price": 127,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_033": {
     "name": "Success Kid",
@@ -411,7 +417,8 @@
     "power": 56,
     "shop_price": 181,
     "sell_price": 135,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_034": {
     "name": "Overly Attached Girlfriend",
@@ -422,7 +429,8 @@
     "power": 60,
     "shop_price": 193,
     "sell_price": 144,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_035": {
     "name": "Rickroll (Rick Astley)",
@@ -433,7 +441,8 @@
     "power": 64,
     "shop_price": 208,
     "sell_price": 156,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_036": {
     "name": "Harambe",
@@ -444,7 +453,8 @@
     "power": 69,
     "shop_price": 226,
     "sell_price": 169,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_037": {
     "name": "Dat Boi",
@@ -455,7 +465,8 @@
     "power": 74,
     "shop_price": 246,
     "sell_price": 184,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_038": {
     "name": "Keyboard Cat",
@@ -466,7 +477,8 @@
     "power": 81,
     "shop_price": 268,
     "sell_price": 201,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_039": {
     "name": "Charlie Bit My Finger",
@@ -477,7 +489,8 @@
     "power": 89,
     "shop_price": 293,
     "sell_price": 219,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_040": {
     "name": "Scumbag Steve",
@@ -488,7 +501,8 @@
     "power": 98,
     "shop_price": 321,
     "sell_price": 240,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_041": {
     "name": "Chuck Norris Facts",
@@ -499,7 +513,8 @@
     "power": 107,
     "shop_price": 351,
     "sell_price": 263,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_042": {
     "name": "Me Gusta",
@@ -510,7 +525,8 @@
     "power": 118,
     "shop_price": 384,
     "sell_price": 288,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_043": {
     "name": "Distracted Boyfriend",
@@ -521,7 +537,8 @@
     "power": 130,
     "shop_price": 420,
     "sell_price": 315,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_044": {
     "name": "Hide the Pain Harold",
@@ -532,7 +549,8 @@
     "power": 143,
     "shop_price": 458,
     "sell_price": 343,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_045": {
     "name": "Woman Yelling at a Cat",
@@ -543,7 +561,8 @@
     "power": 158,
     "shop_price": 499,
     "sell_price": 374,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_046": {
     "name": "Drake Hotline Bling",
@@ -554,7 +573,8 @@
     "power": 174,
     "shop_price": 544,
     "sell_price": 408,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_047": {
     "name": "Mocking Spongebob",
@@ -565,7 +585,8 @@
     "power": 191,
     "shop_price": 591,
     "sell_price": 443,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_048": {
     "name": "Arthur's Fist",
@@ -576,7 +597,8 @@
     "power": 209,
     "shop_price": 641,
     "sell_price": 480,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_049": {
     "name": "GigaChad",
@@ -587,7 +609,8 @@
     "power": 228,
     "shop_price": 694,
     "sell_price": 520,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   },
   "item_050": {
     "name": "We Are Number One (Robbie Rotten)",
@@ -598,6 +621,7 @@
     "power": 250,
     "shop_price": 750,
     "sell_price": 562,
-    "shop_time": 90
+    "shop_time": 90,
+    "shop_ping": false
   }
 }
