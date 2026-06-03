@@ -4,9 +4,34 @@
     "emoji": "🗝️",
     "color": "0x00ffcc"
   },
-  "inutile": {
-    "label": "Inutile",
-    "emoji": "🗑️",
-    "color": "0x808080"
+  "common": {
+    "label": "Commun",
+    "emoji": "⚪",
+    "color": "0xffffff"
+  },
+  "uncommon": {
+    "label": "Peu commun",
+    "emoji": "🟢",
+    "color": "0x00ff00"
+  },
+  "rare": {
+    "label": "Rare",
+    "emoji": "🔵",
+    "color": "0x0000ff"
+  },
+  "epic": {
+    "label": "Épique",
+    "emoji": "🟣" ,
+    "color": "0x800080" 
+  },
+  "legendary": {
+    "label": "Légendaire",
+    "emoji": "🟠",
+    "color": "0xffa500"
+  },
+  "mythic": {
+    "label": "Mythique",
+    "emoji": "🔴",
+    "color": "0xff4500"
   }
 }

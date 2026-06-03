@@ -22,7 +22,7 @@
     "description": "Une collection d'anciens memes a été découverte dans les environs. Explore-la pour découvrir ses secrets et récupérer des trésors.",
     "duration_seconds": 120,
     "level_required": 3,
-    "power_required": 100,
+    "power_required": 150,
     "rewards": {
       "xp": 50,
       "gold_min": 400,
@@ -30,6 +30,24 @@
       "league_points": 25,
       "box_chances": {
         "box_memes": 100
+      }
+    }
+  },
+
+
+  "exp_003": {
+    "name": "Regarder des animes",
+    "description": "Des animes populaires ont été découverts dans une dimension parallèle. Regarde-les pour trouver des objets rares et puissants.",
+    "duration_seconds": 180,
+    "level_required": 6,
+    "power_required": 300,
+    "rewards": {
+      "xp": 100,
+      "gold_min": 1000,
+      "gold_max": 1500,
+      "league_points": 50,
+      "box_chances": {
+        "box_anime": 100
       }
     }
   }

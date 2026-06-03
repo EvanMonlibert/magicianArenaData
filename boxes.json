@@ -4,8 +4,8 @@
       "id": "box_lostmedias",
       "name": "Box Lostmedias",
       "description": "Une caisse ",
-      "icon": "🎤",
-      "rarity": "inutile",
+      "icon": "📼",
+      "rarity": "common",
       "price": 500,
       "itemCount": {
         "min": 1,
@@ -47,7 +47,7 @@
       "name": "Box Memes",
       "description": "Une caisse remplie de memes classiques et intemporels. Parfaite pour les amateurs d'humour.",
       "icon": "😂",
-      "rarity": "inutile",
+      "rarity": "common",
       "price": 1250,
       "itemCount": {
         "min": 1,
@@ -82,6 +82,47 @@
         "item_050": 0.001
       },
       "shop_ping": false
+    },
+    {
+      "id": "box_anime",
+      "name": "Box Anime",
+      "description": "Une caisse remplie d'objets liés à des animes populaires et des séries animées. Parfaite pour les fans d'anime.",
+      "icon": "🎌",
+      "rarity": "common",
+      "price": 2500,
+      "itemCount": {
+        "min": 1,
+        "max": 3
+      },
+      "in_shop": true,
+      "shop_time": 120,
+      "itemDrops": {
+        "item_051": 15,
+        "item_052": 14,
+        "item_053": 13,
+        "item_054": 12,
+        "item_055": 11,
+        "item_056": 10,
+        "item_057": 9,
+        "item_058": 8,
+        "item_059": 7,
+        "item_060": 6,
+        "item_061": 5,
+        "item_062": 4,
+        "item_063": 3,
+        "item_064": 2,
+        "item_065": 1,
+        "item_066": 0.5,
+        "item_067": 0.25,
+        "item_068": 0.1,
+        "item_069": 0.05,
+        "item_070": 0.025,
+        "item_071": 0.01,
+        "item_072": 0.005,
+        "item_073": 0.0025,
+        "item_074": 0.001,
+        "item_075": 0.0005
+      }
     }
   ]
 }

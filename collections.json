@@ -11,6 +11,12 @@
       "name": "Memes",
       "description": "Une collection d'anciens memes internet, représentant des moments culturels et humoristiques du passé.",
       "icon": "😂"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "description": "Une collection d'objets liés à des animes populaires et des séries animées.",
+      "icon": "🎌"
     }
   ]
 }
