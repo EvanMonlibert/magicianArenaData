@@ -21,7 +21,7 @@
     "name": "Rechercher des anciens memes",
     "description": "Une collection d'anciens memes a été découverte dans les environs. Explore-la pour découvrir ses secrets et récupérer des trésors.",
     "duration_seconds": 120,
-    "level_required": 5,
+    "level_required": 3,
     "power_required": 100,
     "rewards": {
       "xp": 50,
