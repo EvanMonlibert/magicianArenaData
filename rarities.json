@@ -2,36 +2,43 @@
   "secret": {
     "label": "Secret",
     "emoji": "🗝️",
-    "color": "0x00ffcc"
+    "color": "0x00ffcc",
+    "dropChance": 0
   },
   "common": {
     "label": "Commun",
     "emoji": "⚪",
-    "color": "0xffffff"
+    "color": "0xffffff",
+    "dropChance": 50
   },
   "uncommon": {
     "label": "Peu commun",
     "emoji": "🟢",
-    "color": "0x00ff00"
+    "color": "0x00ff00",
+    "dropChance": 30
   },
   "rare": {
     "label": "Rare",
     "emoji": "🔵",
-    "color": "0x0000ff"
+    "color": "0x0000ff",
+    "dropChance": 12
   },
   "epic": {
     "label": "Épique",
-    "emoji": "🟣" ,
-    "color": "0x800080" 
+    "emoji": "🟣",
+    "color": "0x800080",
+    "dropChance": 6
   },
   "legendary": {
     "label": "Légendaire",
     "emoji": "🟠",
-    "color": "0xffa500"
+    "color": "0xffa500",
+    "dropChance": 1.5
   },
   "mythic": {
     "label": "Mythique",
     "emoji": "🔴",
-    "color": "0xff4500"
+    "color": "0xff4500",
+    "dropChance": 0.5
   }
 }

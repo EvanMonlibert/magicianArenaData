@@ -3,10 +3,10 @@
     "id": "x2",
     "label": "X2",
     "emoji": "2️⃣",
-    "description": "+100% de puissance",
+    "description": "+100% de stats",
     "powerMultiplier": 2.0,
     "lpMultiplier": 2.0,
     "moneyMultiplier": 2.0,
-    "dropChance": 0
+    "dropChance": 100
   }
 }

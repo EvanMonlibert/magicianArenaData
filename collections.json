@@ -17,6 +17,36 @@
       "name": "Anime",
       "description": "Une collection d'objets liés à des animes populaires et des séries animées.",
       "icon": "🎌"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming Retro & Glitch",
+      "description": "Une collection d'objets cultes, de bugs historiques et de légendes de l'univers du jeu vidéo.",
+      "icon": "🎮"
+    },
+    {
+      "id": "webculture",
+      "name": "Culture Web & Drama",
+      "description": "Les grands moments du web mondial, le matériel informatique bizarre et les drames intemporels.",
+      "icon": "🌐"
+    },
+    {
+      "id": "junkfood",
+      "name": "Junk Food",
+      "description": "La nourriture légendaire et les pires abominations culinaires d'Internet.",
+      "icon": "🍔"
+    },
+    {
+      "id": "chemistry",
+      "name": "Éléments Chimiques",
+      "description": "Les blocs de construction de l'univers, de l'hydrogène aux éléments les plus instables et mythiques.",
+      "icon": "🧪"
+    },
+    {
+      "id": "animals",
+      "name": "Règne Animal",
+      "description": "Les créatures de notre monde, de la plus familière à la bête légendaire des profondeurs.",
+      "icon": "🦁"
     }
   ]
 }

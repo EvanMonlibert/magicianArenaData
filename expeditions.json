@@ -15,8 +15,6 @@
       }
     }
   },
-
-
   "exp_002": {
     "name": "Rechercher des anciens memes",
     "description": "Une collection d'anciens memes a été découverte dans les environs. Explore-la pour découvrir ses secrets et récupérer des trésors.",
@@ -33,8 +31,6 @@
       }
     }
   },
-
-
   "exp_003": {
     "name": "Regarder des animes",
     "description": "Des animes populaires ont été découverts dans une dimension parallèle. Regarde-les pour trouver des objets rares et puissants.",
@@ -48,6 +44,86 @@
       "league_points": 50,
       "box_chances": {
         "box_anime": 100
+      }
+    }
+  },
+  "exp_004": {
+    "name": "Exploration du Retrogaming",
+    "description": "Des reliques de consoles oubliées et des cartouches glitchées ont été détectées. Explore ces anciens serveurs pour les récupérer.",
+    "duration_seconds": 240,
+    "level_required": 10,
+    "power_required": 500,
+    "rewards": {
+      "xp": 200,
+      "gold_min": 1800,
+      "gold_max": 2500,
+      "league_points": 75,
+      "box_chances": {
+        "box_gaming": 100
+      }
+    }
+  },
+  "exp_005": {
+    "name": "Archéologie du Web",
+    "description": "Plonge dans les tréfonds d'anciens forums et de sites obscurs pour déterrer des dramas et du matériel informatique légendaire.",
+    "duration_seconds": 360,
+    "level_required": 15,
+    "power_required": 1000,
+    "rewards": {
+      "xp": 500,
+      "gold_min": 3000,
+      "gold_max": 4500,
+      "league_points": 100,
+      "box_chances": {
+        "box_webculture": 100
+      }
+    }
+  },
+  "exp_006": {
+    "name": "Dégustation Extrême",
+    "description": "Une rumeur parle d'aliments interdits aux calories incalculables. Prends ton courage à deux mains pour y goûter et survivre.",
+    "duration_seconds": 480,
+    "level_required": 22,
+    "power_required": 2500,
+    "rewards": {
+      "xp": 700,
+      "gold_min": 5000,
+      "gold_max": 8000,
+      "league_points": 150,
+      "box_chances": {
+        "box_junkfood": 100
+      }
+    }
+  },
+  "exp_007": {
+    "name": "Expérience Chimique",
+    "description": "Mélange des réactifs dangereux et découvre de nouveaux éléments chimiques aux propriétés mystiques.",
+    "duration_seconds": 600,
+    "level_required": 30,
+    "power_required": 4000,
+    "rewards": {
+      "xp": 1000,
+      "gold_min": 7500,
+      "gold_max": 12000,
+      "league_points": 200,
+      "box_chances": {
+        "box_chemistry": 100
+      }
+    }
+  },
+  "exp_008": {
+    "name": "Safari Magique",
+    "description": "Traverse des savanes et des forêts denses à la recherche de la faune de notre monde et d'ailleurs.",
+    "duration_seconds": 720,
+    "level_required": 40,
+    "power_required": 8000,
+    "rewards": {
+      "xp": 1500,
+      "gold_min": 10000,
+      "gold_max": 15000,
+      "league_points": 250,
+      "box_chances": {
+        "box_animals": 100
       }
     }
   }
