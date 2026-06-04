@@ -3,10 +3,60 @@
     "id": "x2",
     "label": "X2",
     "emoji": "2️⃣",
-    "description": "+100% de stats",
+    "description": "+100% de puissance",
     "powerMultiplier": 2.0,
     "lpMultiplier": 2.0,
     "moneyMultiplier": 2.0,
-    "dropChance": 100
+    "dropChance": 0
+  },
+  "shiny": {
+    "id": "shiny",
+    "label": "Shiny",
+    "emoji": "✨",
+    "description": "+10% de puissance",
+    "powerMultiplier": 1.1,
+    "lpMultiplier": 1.1,
+    "moneyMultiplier": 1.1,
+    "dropChance": 20.0
+  },
+  "demonic": {
+    "id": "demonic",
+    "label": "Démoniaque",
+    "emoji": "😈",
+    "description": "+25% de puissance",
+    "powerMultiplier": 1.25,
+    "lpMultiplier": 1.25,
+    "moneyMultiplier": 1.25,
+    "dropChance": 10.0
+  },
+  "divine": {
+    "id": "divine",
+    "label": "Divin",
+    "emoji": "👼",
+    "description": "+50% de puissance",
+    "powerMultiplier": 1.5,
+    "lpMultiplier": 1.5,
+    "moneyMultiplier": 1.5,
+    "dropChance": 5.0
+  },
+  "glitched": {
+    "id": "glitched",
+    "label": "Glitched",
+    "emoji": "👾",
+    "description": "+150% de puissance",
+    "powerMultiplier": 2.5,
+    "lpMultiplier": 2.5,
+    "moneyMultiplier": 2.5,
+    "dropChance": 1.0
+  },
+  "omnipotent": {
+    "id": "omnipotent",
+    "label": "Omnipotent",
+    "emoji": "🌌",
+    "description": "+400% de puissance",
+    "powerMultiplier": 5.0,
+    "lpMultiplier": 5.0,
+    "moneyMultiplier": 5.0,
+    "dropChance": 0.1
   }
 }
